@@ -3,4 +3,4 @@
 
 | № | **Проект** |  **Описание** | **Инструменты** |  
 |:--|:-----------|:-------------|:----------------|  
-| 1 | [**Предобработка данных**](https://github.com/andreyi91/DS_projects/tree/master/01.%20%D0%9F%D1%80%D0%B5%D0%B4%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)  | Исследование статистики о платёжеспособности клиентов. Влияние семейного положения и количества детей клиента на факт возврата кредита в срок | - python<br>- pandas<br>- pymystem3 |
+| 1 | [**Porto Seguro (Страхование)**](https://github.com/ZhavoronkovSergey/Kaggle/blob/main/Porto_Seguro_Safe_Driver_prediction.ipynb)  | Построить модель, которая предсказывает вероятность того, что водитель подаст заявление на автострахование в следующем году. | - numpy<br>- pandas<br>- sklearn<br>- catboost<br>- xgboost |
